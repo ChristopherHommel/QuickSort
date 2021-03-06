@@ -1,4 +1,8 @@
-
+/**
+ * An implementation of the quicksort alogrithm
+ * @author Christopher
+ *
+ */
 
 public class QuickSort {
 
