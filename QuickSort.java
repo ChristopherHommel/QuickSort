@@ -1,5 +1,5 @@
 /**
- * An implementation of the quicksort alogrithm
+ * An implementation of the quicksort algorithm
  * @author Christopher
  *
  */
